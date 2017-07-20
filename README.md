@@ -1,6 +1,8 @@
 # Python 3.6 missing standard module curses
 
-Lambda Python 3.6 environment has few standard modules missed. This is module to support ncurses.
+Lambda Python 3.6 environment had few standard modules missed. This is module to support ncurses.
+
+*This issue has been solved so you don't need this module anymore.*
 
 Installation
 ------------
